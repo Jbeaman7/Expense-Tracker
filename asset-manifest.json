@@ -1,14 +1,15 @@
 {
-  "main.css": "/Expense-Tracker/static/css/main.59e449a0.chunk.css",
-  "main.js": "/Expense-Tracker/static/js/main.ecde74d0.chunk.js",
-  "main.js.map": "/Expense-Tracker/static/js/main.ecde74d0.chunk.js.map",
+  "main.css": "/Expense-Tracker/static/css/main.1c7c811b.chunk.css",
+  "main.js": "/Expense-Tracker/static/js/main.b7486d8a.chunk.js",
+  "main.js.map": "/Expense-Tracker/static/js/main.b7486d8a.chunk.js.map",
   "runtime~main.js": "/Expense-Tracker/static/js/runtime~main.0e6b955e.js",
   "runtime~main.js.map": "/Expense-Tracker/static/js/runtime~main.0e6b955e.js.map",
-  "static/js/2.5bf9b2cd.chunk.js": "/Expense-Tracker/static/js/2.5bf9b2cd.chunk.js",
-  "static/js/2.5bf9b2cd.chunk.js.map": "/Expense-Tracker/static/js/2.5bf9b2cd.chunk.js.map",
+  "static/css/2.1ed85fa4.chunk.css": "/Expense-Tracker/static/css/2.1ed85fa4.chunk.css",
+  "static/js/2.0df45ae6.chunk.js": "/Expense-Tracker/static/js/2.0df45ae6.chunk.js",
+  "static/js/2.0df45ae6.chunk.js.map": "/Expense-Tracker/static/js/2.0df45ae6.chunk.js.map",
   "index.html": "/Expense-Tracker/index.html",
-  "precache-manifest.761d9899ea3fddf058edf283b75b2c9e.js": "/Expense-Tracker/precache-manifest.761d9899ea3fddf058edf283b75b2c9e.js",
+  "precache-manifest.f597da645b83b668021e34952a4696d3.js": "/Expense-Tracker/precache-manifest.f597da645b83b668021e34952a4696d3.js",
   "service-worker.js": "/Expense-Tracker/service-worker.js",
-  "static/css/main.59e449a0.chunk.css.map": "/Expense-Tracker/static/css/main.59e449a0.chunk.css.map",
-  "static/media/logo.svg": "/Expense-Tracker/static/media/logo.5d5d9eef.svg"
+  "static/css/2.1ed85fa4.chunk.css.map": "/Expense-Tracker/static/css/2.1ed85fa4.chunk.css.map",
+  "static/css/main.1c7c811b.chunk.css.map": "/Expense-Tracker/static/css/main.1c7c811b.chunk.css.map"
 }
