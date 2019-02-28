@@ -7,10 +7,11 @@ const reducer = (state, action) => {
         case "ADD_EXPENSE":
         return {
             ...state,
-            expenses: action.expenses
+            expenses:action.expenses
+            
         }
         default:
-        return state
+        return state;
     }
 }
 

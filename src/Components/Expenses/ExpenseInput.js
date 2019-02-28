@@ -28,7 +28,9 @@ class ExpenseInput extends Component {
             expenses: [
                 ...this.state.expenses,
                 {expenseName: this.state.expenseName, price: this.state.price, category: this.state.category}
-            ]
+            ],
+            expenseName: '',
+            price: ''
         })
     }
     render(){
@@ -63,7 +65,8 @@ class ExpenseInput extends Component {
                             onChange={this.handleInput}
                             className="form-control"
                             name="category">
-                        <option value="food">Food and Drink</option>
+                        <option selected disabled>Please Select a Category</option>
+                        <option>Food and Drink</option>
                         <option>Transportation</option>
                         <option>Clothing</option>
                         <option>Personal Care</option>

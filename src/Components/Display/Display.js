@@ -9,12 +9,12 @@ const Display = () => {
             {value => {   
                 const totalExpense = value.expenses.length > 0 ? (
                     value.expenses.reduce((accumulator, currentValue) => {
-                        accumulator += currentValue.price
+                        accumulator += parseInt(currentValue.price)
                         return accumulator
                     },0)) : 0;
                  return(
                 <div className="card card-body">
-                    <h3 className="text-center">Your Total Expenses: {totalExpense}</h3>
+                    <h3 className="text-center">Your Total Expenses: ${totalExpense}</h3>
                     <ExpenseList />
                 </div>
                  )
