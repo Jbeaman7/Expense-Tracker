@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import Navbar from "./Components/Navbar";
-import Expenses from "./Components/Expenses/Expenses"; 
-import Chart from "./Components/Display/Chart";
+import Navbar from "./components/Navbar";
+import Expenses from "./components/Expenses/Expenses"; 
+
 class App extends Component {
   render() {
     return (
@@ -11,7 +11,7 @@ class App extends Component {
           <Expenses />
         </div>
         <div>
-          <Chart />
+          {/* <Chart /> */}
         </div>
       </div>
     );
