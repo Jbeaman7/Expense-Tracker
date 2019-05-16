@@ -10,9 +10,6 @@ class App extends Component {
         <div className="container my-5">
           <Expenses />
         </div>
-        <div>
-          {/* <Chart /> */}
-        </div>
       </div>
     );
   }
